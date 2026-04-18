@@ -34,5 +34,5 @@ Aplikasi ini dapat diuji coba secara langsung tanpa perlu melakukan proses insta
 4. Anda akan diarahkan ke Home screen dan dapat mengakses fitur Studio Photobooth!
 
 ---
-Shabrina Yuspiana<img width="709" height="1600" alt="Login" src="https://github.com/user-attachments/assets/fc74822b-0ec2-4652-b32b-7feaa5c7398b" />
+Shabrina Yuspiana
  NIM:243303621210
